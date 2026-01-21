@@ -1,13 +1,6 @@
 {
     "files": [
         {
-            "crc_xxhashct": 1705620497,
-            "filesize": 138209741,
-            "link": "files_18984_48213f4a_1767057486428_express",
-            "path": "launcher.apk",
-            "rule_file": "android.site"
-        },
-        {
             "crc_xxhashct": 1898648229,
             "filesize": 50295515,
             "link": "files_18757_d3d15079_1766617665098",
